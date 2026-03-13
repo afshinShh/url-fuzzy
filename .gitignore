@@ -1,0 +1,6 @@
+*.log
+results*.txt
+urls.txt
+!examples/urls.txt
+*.bak
+.DS_Store

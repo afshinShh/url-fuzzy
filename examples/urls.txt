@@ -1,0 +1,12 @@
+# Example URLs for URL Fuzzy
+# Replace these with your target URLs (one per line)
+# Lines starting with # are ignored
+
+# HTTP/HTTPS example
+# https://example.com/api?redirect=%0D%0Ahttps://evil.com
+
+# Gopher protocol (e.g., Redis, FastCGI)
+# gopher://127.0.0.1:6379/_%2A1%0D%0A%248%0D%0Aflushall%0D%0A
+
+# Add your URLs below (uncommented):
+# https://your-target.com/endpoint?url=
