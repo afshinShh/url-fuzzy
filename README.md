@@ -1,4 +1,5 @@
 # URL Fuzzy
+<img width="486" height="496" alt="The Morose Mononokean's Fuzzy" src="https://github.com/user-attachments/assets/ea8494ed-0221-48f0-960e-17f0e0e8b3bc" />
 
 ![Shell](https://img.shields.io/badge/Shell-Bash%204%2B-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
